@@ -1,0 +1,9 @@
+{
+  "name": "day-tracker",
+  "version": "0.1.0",
+  "main": "main.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.129"
+  }
+}
